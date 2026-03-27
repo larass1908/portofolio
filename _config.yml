@@ -1,0 +1,15 @@
+title: Laras Permatasari | Product Owner
+email: laraspermatasari19@gmail.com
+description: >-
+  Product Owner & Digital Strategist dengan pengalaman 5+ tahun dalam transformasi 
+  digital, sistem e-commerce, dan integrasi ERP (SAP FI/HANA).
+baseurl: "" 
+url: "https://laraspermatasari.github.io"
+twitter_username: larasps
+github_username:  laraspermatasari
+linkedin_username: laras-permatasari-b316a722b
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
